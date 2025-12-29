@@ -25,19 +25,23 @@ git clone <your-repo-url>
 cd project folder name
 
 Create a Python 3.13 virtual environment:
+
 ```bash
 python -m venv venv_zynd
 venv_zynd\Scripts\activate   # Windows
 source venv_zynd/bin/activate  # macOS/Linux
 
 Upgrade pip and install dependencies:
+
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 
 Run the Streamlit app:
+
 ```bash
 streamlit run app.py
+
 
 
 
