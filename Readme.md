@@ -21,7 +21,7 @@ This project simulates real time flood resilience and response for cities in Ind
 
 **1.Clone Repository:**
 
-git clone <your-repo-url>
+git clone <repo url>
 
 cd project folder name
 
@@ -42,6 +42,7 @@ pip install -r requirements.txt
 **4.Run the Streamlit app:**
 
 streamlit run app.py
+
 
 
 
