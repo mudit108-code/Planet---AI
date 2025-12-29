@@ -19,21 +19,30 @@ This project simulates real time flood resilience and response for cities in Ind
 ## ⚡ Installation 
 
 
-Clone Repository:
+**1.Clone Repository:**
+
 git clone <your-repo-url>
+
 cd project folder name
 
-Create a Python 3.13 virtual environment:
+**2.Create a Python 3.13 virtual environment:**
+
 python -m venv venv_zynd
+
 venv_zynd\Scripts\activate   # Windows
+
 source venv_zynd/bin/activate  # macOS/Linux
 
-Upgrade pip and install dependencies:
+**3.Upgrade pip and install dependencies:**
+
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
-Run the Streamlit app:
+**4.Run the Streamlit app:**
+
 streamlit run app.py
+
 
 
 
