@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+zyndai-agent
+sqlite-utils
