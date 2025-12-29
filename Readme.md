@@ -33,7 +33,8 @@ Upgrade pip and install dependencies:
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-Run the Streamlit app:
 
+Run the Streamlit app:
 ```bash
 streamlit run app.py
+
